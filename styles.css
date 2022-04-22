@@ -14,7 +14,7 @@ body{
 }
 
 .emoji{
-    font-size: 10rem;
+    font-size: 11rem;
     cursor: pointer;
     user-select: none;
 }
